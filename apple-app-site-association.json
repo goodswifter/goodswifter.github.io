@@ -1,11 +1,11 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "U695HGRR9H.com.nyh.nyhApp",
-                "paths": [ "*" ]
-            }
-        ]
-    }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "DNQ374N5H4.com.zad.githubUniversal",
+        "paths": ["*"]
+      }
+    ]
+  }
 }
